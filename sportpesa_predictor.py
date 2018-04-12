@@ -16,10 +16,4 @@ def bounty_hunter():
 
         print(predicted_no, end= " ")
         n += 1
-    jp = str(bounty_hunter())
-    jackpt = ''.join(str(x) for x in [jp])
-
-
-
-type(jackpt)
-print(jackpt[3:6])
+bounty_hunter()
